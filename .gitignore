@@ -1,0 +1,11 @@
+*.log
+local.yml
+secret.yml
+*.bin
+*.exe
+*.dll
+.DS_Store
+Thumbs.db
+*~
+*.bak
+node_modules/

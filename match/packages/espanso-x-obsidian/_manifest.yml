@@ -1,0 +1,5 @@
+name: "espanso-x-obsidian"
+title: "Quick replacement of categories in Obsidian to avoid the need to copy and paste. Using espanso to implement so that i can use these category definitions easily across systems and tools for a consistent approach."
+description: A simple package to show how to create your own one!
+version: 0.1
+author: chillskellingtom
